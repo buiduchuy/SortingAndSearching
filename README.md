@@ -1,5 +1,5 @@
 # SortingAndSearching
-There are some type of sorting and searching that I had been learned, I gonna push it in here
+There are some type of sorting and searching that I had been learned, I gonna push it in here    
 Content:
 Searching:
 -Linear Search
